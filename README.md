@@ -94,7 +94,7 @@ This project is structured to ensure a systematic and incremental development pr
 - **Tasks**:
   1. Set up the project structure with separate client and server folders.
      - **Reading**: [MERN Stack Folder Structure](https://www.mongodb.com/mern-stack)  
-     - **Video**: [Folder Structure for MERN Projects](https://www.youtube.com/watch?v=K5QaTfE5ylk)
+     - **Video**: [Folder Structure for MERN Projects](https://www.youtube.com/watch?v=98BzS5Oz5E4&list=PL4cUxeGkcC9iJ_KkrkBZWZRHVwnzLIoUE)
   2. Create a basic Express.js server with a health check endpoint.
      - **Reading**: [Getting Started with Express.js](https://expressjs.com/en/starter/installing.html)  
      - **Video**: [Setting Up an Express Server](https://www.youtube.com/watch?v=L72fhGm1tfE)
