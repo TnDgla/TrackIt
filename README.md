@@ -126,7 +126,7 @@ This project is structured to ensure a systematic and incremental development pr
      - **Video**: [Creating APIs with Express](https://www.youtube.com/watch?v=pKd0Rpw7O48)
   2. Implement frontend forms for adding and editing transactions.
      - **Reading**: [React Forms](https://react.dev/reference/react-dom/components/form)  
-     - **Video**: [Building Forms in React](https://www.youtube.com/watch?v=1dDK_N909Xo)
+     - **Video**: [Building Forms in React](https://www.youtube.com/watch?v=H63Pd_lXkeQ)
 
 - **Deliverables**:
   - A functional backend and frontend for managing transactions.
@@ -140,7 +140,7 @@ This project is structured to ensure a systematic and incremental development pr
      - **Video**: [Using Chart.js in React](https://www.youtube.com/watch?v=Ly-9VTXJlnA)
   2. Provide detailed reports with filtering options.
      - **Reading**: [React Data Tables](https://react-table.tanstack.com/)  
-     - **Video**: [Building Data Tables](https://www.youtube.com/watch?v=jAQpO_MUwpI)
+     - **Video**: [Building Data Tables](https://www.youtube.com/watch?v=H63Pd_lXkeQ)
 
 - **Deliverables**:
   - Interactive charts and detailed reports for transactions.
