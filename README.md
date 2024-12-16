@@ -110,8 +110,8 @@ This project is structured to ensure a systematic and incremental development pr
      - **Reading**: [JSON Web Tokens](https://jwt.io/introduction/)  
      - **Video**: [JWT Authentication in Node.js](https://www.youtube.com/watch?v=mbsmsi7l3r4)
   2. Add role-based access control for admin and user roles.
-     - **Reading**: [Role-Based Authentication](https://auth0.com/docs/authorization/concepts)  
-     - **Video**: [Role-Based Access in Express](https://www.youtube.com/watch?v=BsPtr5gxLfI)
+     - **Reading**: [Role-Based Authentication](https://dotnetfullstackdev.medium.com/role-based-authorization-and-authentication-in-react-with-auth-handlers-specific-role-based-and-466c4483a2fb)  
+     - **Video**: [Role-Based Access in Express](https://www.youtube.com/watch?v=HHuiV841g_w)
 
 - **Deliverables**:
   - Secure authentication system with role-based access control.
