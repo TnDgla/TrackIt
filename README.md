@@ -150,11 +150,11 @@ This project is structured to ensure a systematic and incremental development pr
 #### **Week 5: Pagination and Deployment**
 - **Tasks**:
   1. Implement pagination for transaction lists.
-     - **Reading**: [Pagination in MongoDB](https://docs.mongodb.com/manual/reference/method/cursor.skip/)  
-     - **Video**: [Pagination with Node.js and MongoDB](https://www.youtube.com/watch?v=ZYKOoEXaCIM)
+     - **Reading**: [Pagination in MongoDB](https://medium.com/fasal-engineering/pagination-in-mongodb-aggregation-and-find-queries-with-code-examples-cbee9e8331c6)  
+     - **Video**: [Pagination with Node.js and MongoDB](https://www.youtube.com/watch?v=AaEA2_Zi8pE)
   2. Deploy the application.
-     - **Reading**: [Deploying MERN Apps](https://www.mongodb.com/developer/how-to/deploy-mern-app/)  
-     - **Video**: [Deploy MERN Stack](https://www.youtube.com/watch?v=9FAHZX5Cmu4)
+     - **Reading**: [Deploying MERN Apps](https://dev.to/kunalukey/how-to-setup-and-deploy-a-mern-stack-project-for-free-5acl)  
+     - **Video**: [Deploy MERN Stack](https://www.youtube.com/watch?v=Cfi0mymfKiA)
 
 - **Deliverables**:
   - A deployed application with live access.
