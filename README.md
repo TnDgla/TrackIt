@@ -125,8 +125,8 @@ This project is structured to ensure a systematic and incremental development pr
      - **Reading**: [Building RESTful APIs](https://restfulapi.net/)  
      - **Video**: [Creating APIs with Express](https://www.youtube.com/watch?v=pKd0Rpw7O48)
   2. Implement frontend forms for adding and editing transactions.
-     - **Reading**: [React Forms](https://reactjs.org/docs/forms.html)  
-     - **Video**: [Building Forms in React](https://www.youtube.com/watch?v=YK1Sw_hnm58)
+     - **Reading**: [React Forms](https://react.dev/reference/react-dom/components/form)  
+     - **Video**: [Building Forms in React](https://www.youtube.com/watch?v=H63Pd_lXkeQ)
 
 - **Deliverables**:
   - A functional backend and frontend for managing transactions.
