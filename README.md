@@ -1,3 +1,4 @@
+
 ### **Project Overview: TrackIt Expense Tracker Web App**
 
 **TrackIt:** This project involves building a comprehensive expense tracker web application using the MERN stack (MongoDB, Express.js, React.js, and Node.js). It is designed to track both income and expenses with support for user authentication, admin privileges, data visualization, and pagination. Participants will learn modern web development techniques and Redux Toolkit for state management.
